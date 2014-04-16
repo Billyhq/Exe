@@ -1,0 +1,70 @@
+boot/bootldr.c <unknown> 544 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 552 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 2873 #if defined (SYS_OPTION_ESPI_BOOT_ENABLE) && defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 3232 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 3379     #if defined (SYS_OPTION_ESPI_BOOT_ENABLE) && defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 4316 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 4335 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 5325     #if !defined (SYS_OPTION_ESPI_CP_DEBUG) || defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 5432 #if defined (SYS_OPTION_ESPI_BOOT_ENABLE) && defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined (ESPI_MASTER)
+boot/bootldr.c <unknown> 5498 #if defined (SYS_OPTION_ESPI_CP_DEBUG) && !defined ESPI_MASTER
+boot/bootldr.c <unknown> 6148 #if defined SYS_OPTION_ESPI_CP_DEBUG && !defined (ESPI_MASTER)
+hwd/hwdespi.c <unknown> 32 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 50 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 111 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 179 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 232 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 239 #if defined (ESPI_MASTER) && !defined (SYS_OPTION_ESPI_DISABLE_ABORT)
+hwd/hwdespi.c <unknown> 275 #if defined (ESPI_MASTER) && !defined (SYS_OPTION_ESPI_DISABLE_ABORT)
+hwd/hwdespi.c <unknown> 290 #if !defined (ESPI_MASTER) && !defined (SYS_OPTION_ESPI_DISABLE_ABORT)
+hwd/hwdespi.c <unknown> 302 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 325 #if (!defined BOOT_BUILDING) && defined ESPI_MASTER
+hwd/hwdespi.c <unknown> 341 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 539 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 555 #else   //ESPI_MASTER
+hwd/hwdespi.c <unknown> 658 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 691 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 724 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 740 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 757 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 783 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 796 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 813 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 823 #if !defined (ESPI_MASTER) && defined (SYS_DEBUG_HW)   //slave && debug for HW
+hwd/hwdespi.c <unknown> 828 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 878 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 948 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1083 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1202 #if defined (SYS_DEBUG_HW) && !defined (ESPI_MASTER)
+hwd/hwdespi.c <unknown> 1255 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1314 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1327 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1349 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1367 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1374 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1389 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1395 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1424 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1448     #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1463 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1660 #endif  //ESPI_MASTER
+hwd/hwdespi.c <unknown> 1662 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1772 #else  //ESPI_MASTER
+hwd/hwdespi.c <unknown> 1875 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 1902 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 2064 #endif   //ESPI_MASTER
+hwd/hwdespi.c <unknown> 2136 #ifdef ESPI_MASTER
+hwd/hwdespi.c <unknown> 2220 #endif  //ESPI_MASTER
+hwd/hwdespi.c <unknown> 2314 #ifndef ESPI_MASTER
+hwd/hwdespi.c <unknown> 2359 #ifdef ESPI_MASTER
+inc/hwdespi.h <unknown> 104 #ifdef ESPI_MASTER
+inc/hwdespi.h <unknown> 220 #ifdef ESPI_MASTER
+inc/hwdespi.h <unknown> 312 #ifdef ESPI_MASTER
+iop/iopmmcltemgr.c <unknown> 308 #if defined (SYS_OPTION_ESPI) && !defined (ESPI_MASTER)
+iop/iopmmcltemgr.c <unknown> 343 #if defined (SYS_OPTION_ESPI) && !defined (ESPI_MASTER)
+mmc/mmcTask.c <unknown> 52 #if ((!defined ESPI_MASTER) && (defined SYS_OPTION_ESPI) && (defined SYS_OPTION_MMCLTE_COM) && (defined SharedRF_Type0))
+mmc/mmcTask.c <unknown> 83 #if defined (SYS_OPTION_ESPI) && !defined (ESPI_MASTER)
+mmc/mmcTask.c <unknown> 372 #if ((!defined ESPI_MASTER) && (defined SYS_OPTION_ESPI) && (defined SYS_OPTION_MMCLTE_COM) && (defined SharedRF_Type0))
+mmc/mmcTask.c <unknown> 808 #if defined (SYS_OPTION_ESPI) && !defined (ESPI_MASTER)
+mon/monespi.c <unknown> 148 #if defined (BOOT_BUILDING) && !defined (ESPI_MASTER)
+mon/monespi.c <unknown> 184 #ifndef ESPI_MASTER
