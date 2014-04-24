@@ -1,0 +1,11 @@
+the following lines in uicchwd.c have this type of error:
+lines:
+1817
+1862
+2028
+2494
+2711
+3493
+4310
+error:
+ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue

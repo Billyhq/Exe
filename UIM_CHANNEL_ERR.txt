@@ -2,56 +2,40 @@
 676:20:01:18.6> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
 677-20:01:18.6> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 678:20:01:18.6> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 680-20:01:18.6> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 681:20:01:18.6> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
 682-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 3493 
 683:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000000, Fault Type=Continue 
---
 689-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 690:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 695-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 696:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 701-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 3493 
 702:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000000, Fault Type=Continue 
 703-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 704:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 709-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 710:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 714-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 715:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c04, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 719-20:01:18.7> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c05, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 720:20:01:18.7> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c05, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 808-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 809:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 811-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uimcmd.c, line 2028 
 812:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
-819-20:01:19.0> ETS, Id=CP Trace, TraceId=CP ESPI DEBUG, N=0x00000002, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Args=2 1 
 820:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000000, Fault Type=Continue 
 821-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 3493 
 822:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000000, Fault Type=Continue 
 823-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 824:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 830-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 831:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 835-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2494 
 836:20:01:19.0> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 843-20:01:19.0> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uimcmd.c, line 1817 
 844:20:01:19.1> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 848-20:01:19.1> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uimcmd.c, line 1862 
 849:20:01:19.1> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
---
 857-20:01:19.1> ETS, Id=CP File Info, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Info=uicchwd.c, line 2711 
 858:20:01:19.1> ETS, Id=CP Fault, Unit=UIM, N=2, SysTime.0=(!1x) 0x0000000c07, SysTime.1=(!DO) 0x0000000000, Code 1=UIM_CHANNEL_ERR, Code 2=0x00000074, Fault Type=Continue 
