@@ -1,0 +1,10 @@
+ip_tcb
+xnspe
+tcp_outflags
+tcp_stats
+mfreeq
+FlowControlOff
+tcp_header_mbuf
+tcp_mssopt
+gCopyRec
+SockCtrlBlkTable

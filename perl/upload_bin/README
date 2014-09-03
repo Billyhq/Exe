@@ -1,0 +1,20 @@
+--files--
+1.auto_bin_load.pl perl script file
+2.src_variable:the variables that should find value in RAM
+3.cp.map:the map file which contains address information for each global variables, it has the following pattern:
+gCopyRec                                 0x00cad6d4   Data          12  valhlpapi.o(.bss)
+0x00cad6d4(the 2nd coloumn) is is the address for this variable, and 12(the 4th coloumn) is the length.
+this file are put in øÏ≈Ã\Œƒµµ\Linux¡∑œ∞\perl
+4.upload_script.txt:sample for VIA ETS script file;
+5.load_bin.inc:sample for ARM RVDS script file
+
+--function description--
+this script implements the following function:
+1.scan all variables in src_variable files, each line for one;
+2.lookup each variable's address and length in cp.map file, and generates a VIA ETS script file upload_script.txt file which contains one entry for each variable like this:
+SpeechUpload, $BIN_FILE_BASE\gCopyRec.b16, 0x00cad6d4, 12
+WAIT 1000
+$BIN_FILE_BASE is the file directory to store these bin files, it must exists in the computer where VIA ETS software is running; gCopyRec is variable name in src_variable file; 0x00cad6d4 and 12 is the information found in cp.map
+3.generate an ARM RVDS script file load_bin.inc which contains one entry for each variable like this:
+readfile,raw16,gui "$BIN_FILE_BASE\gCopyRec.b16"=0x00cad6d4
+gCopyRec is the variable name, 0x00cad6d4 is the address found in cp.map

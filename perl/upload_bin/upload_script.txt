@@ -1,0 +1,15 @@
+SpeechUpload, E:\billyhe\ip_tcb_after_1.b16, 0x00e7eb04, 1420
+WAIT 1000
+SpeechUpload, E:\billyhe\xnspe_after_1.b16, 0x01018d10, 42
+WAIT 1000
+SpeechUpload, E:\billyhe\tcp_outflags_after_1.b16, 0x0098946e, 12
+WAIT 1000
+SpeechUpload, E:\billyhe\tcp_stats_after_1.b16, 0x00e7f698, 50
+WAIT 1000
+SpeechUpload, E:\billyhe\mfreeq_after_1.b16, 0x00e7f81c, 12
+WAIT 1000
+SpeechUpload, E:\billyhe\FlowControlOff_after_1.b16, 0x00c06d24, 2
+WAIT 1000
+SpeechUpload, E:\billyhe\tcp_header_mbuf_after_1.b16, 0x00e956b4, 30
+WAIT 1000
+SpeechUpload, E:\billyhe\tcp_mssopt_after_1.b16, 0x00c06d14, 4
