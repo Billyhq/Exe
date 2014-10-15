@@ -2,7 +2,8 @@
 typedef struct {
 	unsigned int a;
 	unsigned int b;
-	unsigned int *ptr;
+        unsigned int *ptr;
+	//unsigned int ptr[];
 }TestStrT;
 
 void main()
